@@ -1,6 +1,6 @@
 # Arcane
 
-Le projets contient 6 fichiers .py ( 1 fichier de configurations et des classes models).
+Le projet contient 6 fichiers .py ( 1 fichier de configuration et des classes models).
 
  Langage : Python
  Framework : Flask
@@ -10,7 +10,7 @@ Le projets contient 6 fichiers .py ( 1 fichier de configurations et des classes 
 
 J'ai défini 4 classes : Utilisateur, BienImmobilier, Piece, Ville.
 
-Toutes les methodes sont accompagnées par des commentaires.
+Toutes les methodes sont commentées.
 
 Pour tourner le projet en local :
 - Installer une base de données MySQL .
