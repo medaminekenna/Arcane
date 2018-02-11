@@ -2,11 +2,11 @@
 
 Le projets contient 6 fichiers .py ( 1 fichier de configurations et des classes models).
 
-# Langage : Python
-# Framework : Flask
-# ORM : sqlalchemy
-# IDE : Pycharm
-# Base de données : MySQL
+ Langage : Python
+ Framework : Flask
+ ORM : sqlalchemy
+ IDE : Pycharm
+ Base de données : MySQL
 
 J'ai défini 4 classes : Utilisateur, BienImmobilier, Piece, Ville.
 
@@ -21,7 +21,8 @@ Pour tourner le projet en local :
 - Une fois la base créée et remplie, on run '$ python BienImmobilier.py' .
 - Lancer Advanced REST Client de google par exemple pour tester les URL.
 
-#pour afficher les biens de la ville qui Id = 1 par exemple : http://localhost:5000/bien/1
+
+pour afficher les biens de la ville qui a Id = 1 par exemple : http://localhost:5000/bien/1
 
 
 
