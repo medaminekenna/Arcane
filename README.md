@@ -15,6 +15,8 @@ Toutes les methodes sont commentées.
 Pour tourner le projet en local :
 - Installer une base de données MySQL .
 - Créer une base nommée "arcane" .
+- Pour se connecter au serveur Mysql, voir modifier 'engine' dans le fichier config.py :
+  mysql://VotreUserName:VotrePassword@localhost/arcane
 - Installer flask-sqlalchemy and flask-marshmallow .
 - S'assurer que tous les imports sont faits sans erreur.
 - Lancer la commande '$ python inserts.py' dans le terminal pour générer la base de données avec quelques exemples pour la remplir.
