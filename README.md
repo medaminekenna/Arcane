@@ -2,11 +2,11 @@
 
 Le projet contient 6 fichiers .py ( 1 fichier de configuration et des classes models).
 
- Langage : Python
- Framework : Flask
- ORM : sqlalchemy
- IDE : Pycharm
- Base de données : MySQL
+Langage : Python
+Framework : Flask
+ORM : sqlalchemy
+IDE : Pycharm
+Base de données : MySQL
 
 J'ai défini 4 classes : Utilisateur, BienImmobilier, Piece, Ville.
 
